@@ -1,0 +1,12 @@
+Training data, `True.zip` and `Fake.zip`, must each be unzipped into the root folder.
+
+Usage is simple: if there are no .p files from previous times the program is 
+run, then run
+
+python preprocess.py
+python bayes_train.py
+python bayes_test.py
+
+If train.p, test.p, and vocab.p are present, then it is not necessary to run
+preprocess.py. If loglikelihood.py and logprior.py are also present, then
+bayes_train.py does not need to be run either. 
