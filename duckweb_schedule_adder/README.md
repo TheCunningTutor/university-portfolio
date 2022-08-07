@@ -6,7 +6,9 @@ A python script to add a student's class schedule (from [DuckWeb](https://duckwe
 Simply run `main.py` (requires Python 3) and follow the prompts to log into duckweb and choose the term you'd like to add. Getting the classes from DuckWeb should work for you, but unfortunately Google's authorization system still has this project classified as a test project, so it may not work with your Google account; if this is the case you may contact me at [thecunningtutor@gmail.com](mailto:thecunningtutor@gmail.com) to ask me to add your email manually. I don't mind! Otherwise your classes probably won't be able to be added to your calendar.
 
 ## About
-I created this project while studying at the University of Oregon. Along the way I learned a lot about web scraping (to get classes from DuckWeb's very outdated website) and APIs (to add classes to Google Calendar).
+I created this project while studying at the University of Oregon. Along the way I learned a lot about web scraping (to get classes from DuckWeb's very outdated website) and APIs (to add classes to Google Calendar). 
+
+The interesting files here are `main.py` and `get_classes.py`.
 
 ## Demonstration
 Copied from a test run in my own Linux terminal (my one class wasn't added because it's already in my calendar):
