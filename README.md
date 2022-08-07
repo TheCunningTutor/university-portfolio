@@ -1,5 +1,5 @@
 # Cameron Cunningham's Portfolio
-Thank you for visiting my portfolio, a sample of the work I've done while studying for my Bachelors of Science at the University of Oregon. For more information about me, as well as my contact information, my resume can be found in the root folder (`cameron-cunningham-resume.pdf`). 
+Thank you for visiting my portfolio, a sample of the work I've done while studying for my Bachelors of Science at the University of Oregon. For more information about me, as well as my contact information, my resume can be found in the root folder (`cameron-cunningham-resume.pdf` and `cameron-cunningham-resume.docx`). 
 
 I realize that it is currently a little bit sparse; stay posted, there's more coming!
 
