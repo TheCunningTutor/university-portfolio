@@ -2,6 +2,13 @@
 
 A python script to add a student's class schedule (from [DuckWeb](https://duckweb.uoregon.edu/)) to their Google Calendar account.
 
+## Installation
+Make sure Python 3.6+ is installed, and then run the following to install the required dependencies:
+```bash
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+pip install --upgrade beautifulsoup4
+```
+
 ## Usage
 Simply run `main.py` (requires Python 3) and follow the prompts to log into duckweb and choose the term you'd like to add. Getting the classes from DuckWeb should work for you, but unfortunately Google's authorization system still has this project classified as a test project, so it may not work with your Google account; if this is the case you may contact me at [thecunningtutor@gmail.com](mailto:thecunningtutor@gmail.com) to ask me to add your email manually. I don't mind! Otherwise your classes probably won't be able to be added to your calendar.
 
